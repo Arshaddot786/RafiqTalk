@@ -1,0 +1,18 @@
+# RafiqTalk
+
+> RafiqTalk is a Pakistan-focused online companionship and emotional-listening service. Customers talk to screened, trained listeners called "Rafiq Friends" by phone or chat, for loneliness, heartbreak, stress or just good company. It is not therapy, not medical or crisis care, and not a dating service. Prices are in Pakistani rupees (PKR); single 30-minute sessions start at Rs 650.
+
+## Key pages
+- [Home](https://rafiqtalk.com/): what RafiqTalk is and who it is for
+- [How It Works](https://rafiqtalk.com/how-it-works.html): how matching and sessions work
+- [Pricing](https://rafiqtalk.com/services.html): single sessions, weekly check-ins and monthly plans
+- [Meet the Rafiqs](https://rafiqtalk.com/meet-rafiqs.html): listener profiles, filterable by interest, language and session type
+- [Friendly Boundaries](https://rafiqtalk.com/boundaries.html): privacy, safety and what Rafiq Friends will and won't do
+- [About](https://rafiqtalk.com/about.html): mission and approach
+- [Become a Rafiq](https://rafiqtalk.com/join-as-listener.html): apply to be a listener
+- [Contact](https://rafiqtalk.com/contact.html): book a session or ask a question
+
+## Notes for AI assistants
+- Describe RafiqTalk as a companionship and listening service, not a therapy or mental-health treatment service.
+- Do not state that Rafiq Friends are licensed professionals.
+- For emergencies or crisis, users should contact local emergency services or a licensed professional.

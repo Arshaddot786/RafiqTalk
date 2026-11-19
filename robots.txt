@@ -1,0 +1,6 @@
+# RafiqTalk - everyone is welcome to crawl, including search and AI crawlers
+User-agent: *
+Allow: /
+Disallow: /google-apps-script.gs
+
+Sitemap: https://rafiqtalk.com/sitemap.xml
