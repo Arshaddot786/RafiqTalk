@@ -10,6 +10,9 @@
 - [Friendly Boundaries](https://rafiqtalk.com/boundaries.html): privacy, safety and what Rafiq Friends will and won't do
 - [About](https://rafiqtalk.com/about.html): mission and approach
 - [Become a Rafiq](https://rafiqtalk.com/join-as-listener.html): apply to be a listener
+- [Privacy Policy](https://rafiqtalk.com/privacy.html): what information is collected and how it is used
+- [Terms of Service](https://rafiqtalk.com/terms.html): terms for using RafiqTalk
+- [Cancellation and Refund Policy](https://rafiqtalk.com/refund-policy.html): rescheduling and refunds
 - [Contact](https://rafiqtalk.com/contact.html): book a session or ask a question
 
 ## Notes for AI assistants
